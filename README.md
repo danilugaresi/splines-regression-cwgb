@@ -16,10 +16,8 @@ The main focus is on L2-Boosting for additive models using P-splines as base-lea
 ## Repository Structure
 ```text
 .
-├── report/
-│   └── report.pdf
-├── code/
-│   └── example.R
+├── report.pdf 
+├── example.R
 └── README.md
 ```
 ## Team
