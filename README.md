@@ -13,13 +13,6 @@ The main focus is on L2-Boosting for additive models using P-splines as base-lea
 - Parameter Selection.
 - Practical Application in R Using the `mboost` Package
 - References
-## Repository Structure
-```text
-.
-├── report.pdf 
-├── example.R
-└── README.md
-```
 ## Team
 This repository contains material from a group academic project developed collaboratively by:
 
