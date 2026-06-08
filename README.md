@@ -19,5 +19,3 @@ This repository contains material from a group academic project developed collab
 - Gabriel Fernández Lago
 - Daniel Lugaresi Palomares
 - Antía Vega Crego
-## Disclaimer
-This repository is intended for educational and academic purposes. The work was carried out as part of a university project and is shared to showcase the methodology and results obtained during the project.
