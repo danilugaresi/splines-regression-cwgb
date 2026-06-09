@@ -1,20 +1,19 @@
 # Splines penalizados como puente entre estadística y Machine Learning: Splines y Boosting
-Academic project developed as part of the MSc in Statistical Techniques at the Universidade de Santiago de Compostela.
+Proyecto académico desarrollado en el marco del Máster en Técnicas Estadísticas de la Universidade de Santiago de Compostela.
 ## Overview
-This project was developed in the form of a research paper exploring the connection
-between statistical regression methods and modern machine learning techniques through component-wise gradient boosting.
+Este proyecto toma el formato de un artículo de investigación, y su objetivo es explorar la conexión entre los métodos estadísticos de regresión y las técnicas modernas de aprendizaje automático mediante el algoritmo de component-wise gradient boosting y los splines penalizados.
 
-The main focus is on L2-Boosting for additive models using P-splines as base-learners. We study the theoretical foundations of the method, its relationship with penalized regression techniques, and its ability to perform automatic variable selection while providing flexible function estimation.
-## Contents
-- Abstract
-- Introduction
-- Component-Wise Gradient Boosting Methodology
-- L2-Boosting with P-Splines as Base-Learners
-- Parameter Selection.
-- Practical Application in R Using the `mboost` Package
-- References
-## Team
-This repository contains material from a group academic project developed collaboratively by:
+El trabajo se centra principalmente en el método L2-Boosting para modelos aditivos utilizando P-splines como base-learners. Se estudian los fundamentos teóricos del método, su relación con las técnicas de regresión penalizada y su capacidad para realizar selección automática de variables mientras proporciona estimaciones flexibles de las funciones de regresión. Se concluye con un ejemplo práctico de aplicación en R con la librería `mboost`, que implementa el método.
+## Contenidos
+* Resumen
+* Introducción
+* Metodología de Component-Wise Gradient Boosting
+* L2-Boosting con P-Splines como Base-Learners
+* Selección de parámetros
+* Aplicación práctica en R mediante el paquete mboost
+* Referencias
+## Equipo
+Este repositorio contiene material procedente de un proyecto académico desarrollado de forma colaborativa por:
 
 - Gabriel Fernández Lago
 - Daniel Lugaresi Palomares
