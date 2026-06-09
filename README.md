@@ -1,5 +1,5 @@
 # Splines penalizados como puente entre estadística y Machine Learning: Splines y Boosting
-Proyecto académico en equipo desarrollado en el marco del Máster en Técnicas Estadísticas de la Universidade de Santiago de Compostela, colaboradores:
+Proyecto académico en equipo desarrollado en el marco del Máster en Técnicas Estadísticas de la Universidade de Santiago de Compostela y publicado con el consentimiento expreso de todos sus autores:
 
 - Gabriel Fernández Lago
 - Daniel Lugaresi Palomares
