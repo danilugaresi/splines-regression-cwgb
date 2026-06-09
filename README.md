@@ -1,5 +1,9 @@
 # Splines penalizados como puente entre estadística y Machine Learning: Splines y Boosting
-Proyecto académico desarrollado en el marco del Máster en Técnicas Estadísticas de la Universidade de Santiago de Compostela.
+Proyecto académico en equipo desarrollado en el marco del Máster en Técnicas Estadísticas de la Universidade de Santiago de Compostela, colaboradores:
+
+- Gabriel Fernández Lago
+- Daniel Lugaresi Palomares
+- Antía Vega Crego
 ## Descripción
 Este proyecto toma el formato de un artículo de investigación, y su objetivo es explorar la conexión entre los métodos estadísticos de regresión y las técnicas modernas de aprendizaje automático mediante el algoritmo de component-wise gradient boosting y los splines penalizados.
 
@@ -12,9 +16,3 @@ El trabajo se centra principalmente en el método L2-Boosting para modelos aditi
 * Selección de parámetros
 * Aplicación práctica en R mediante el paquete mboost
 * Referencias
-## Equipo
-Este repositorio contiene material procedente de un proyecto académico desarrollado de forma colaborativa por:
-
-- Gabriel Fernández Lago
-- Daniel Lugaresi Palomares
-- Antía Vega Crego
